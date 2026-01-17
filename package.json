@@ -1,0 +1,11 @@
+{
+  "name": "dao-voting-governance-web3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "Beginner-friendly DAO voting and governance project",
+  "author": "Nazrul Islam",
+  "license": "MIT"
+}
